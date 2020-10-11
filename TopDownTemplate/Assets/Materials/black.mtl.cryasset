@@ -1,0 +1,12 @@
+<AssetMetadata version="0" type="Material" guid="5a975f4d-3ff6-530b-f25c-a8b38d84734b" source="" timestamp="1602345761">
+ <Files>
+  <File path="black.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">0</Detail>
+  <Detail name="textureCount">1</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">%engine%/engineassets/textures/BlackAlpha.dds</Path>
+ </Dependencies>
+</AssetMetadata>
